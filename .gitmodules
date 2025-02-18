@@ -1,0 +1,12 @@
+[submodule "DriverController"]
+	path = DriverController
+	url = https://github.com/MST-Solar-Car-Team/DriverController
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/MST-Solar-Car-Team/dashboard
+[submodule "DashboardOs"]
+	path = DashboardOs
+	url = https://github.com/MST-Solar-Car-Team/DashboardOs
+[submodule "telemetry"]
+	path = telemetry
+	url = https://github.com/MST-Solar-Car-Team/telemetry
