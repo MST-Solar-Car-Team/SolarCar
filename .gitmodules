@@ -1,12 +1,16 @@
+[submodule "Telemetry"]
+	path = Telemetry
+	url = https://github.com/MST-Solar-Car-Team/Telemetry
+	branch = main
 [submodule "DriverController"]
 	path = DriverController
 	url = https://github.com/MST-Solar-Car-Team/DriverController
-[submodule "dashboard"]
-	path = dashboard
-	url = https://github.com/MST-Solar-Car-Team/dashboard
+	branch = main
 [submodule "DashboardOs"]
 	path = DashboardOs
 	url = https://github.com/MST-Solar-Car-Team/DashboardOs
-[submodule "telemetry"]
-	path = telemetry
-	url = https://github.com/MST-Solar-Car-Team/telemetry
+	branch = main
+[submodule "Dashboard"]
+	path = Dashboard
+	url = https://github.com/MST-Solar-Car-Team/Dashboard
+	branch = dev
