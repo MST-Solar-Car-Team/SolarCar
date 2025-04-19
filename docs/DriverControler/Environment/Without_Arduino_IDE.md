@@ -1,7 +1,7 @@
 # Working Language Server with Arduino C++
   
  ## Disclaimer
- I'm sure you've noticed by now that every time you try to run your c++ language sever on the DriverController code it freaks out. There is little to no documentation on how to work on Arduino code outside its IDE. **However**, the solut1ion has been discovered, and is documented here. Before we begin, the following is assumed about your environment: 
+ I'm sure you've noticed by now that every time you try to run your c++ language sever on the DriverController code, it freaks out. There is little to no documentation on how to work on Arduino code outside its IDE. **However**, the solution has been discovered, and is documented here. Before we begin, the following is assumed about your environment: 
  1. Your IDE is using clangd for your language server 
  2. Clangd is configured to look for config files (this can be done with the `--enable-config` flag) 
  3. You have basic knowledge of your current working environment (I will not be going into details for configuring individual IDEs)
