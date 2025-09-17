@@ -9,8 +9,8 @@
 ## Getting started: 
 1. Open Profinity
 2. Add peak adapter to profiles in Profinity
-  - Click "Can Adapters"
-  - Add the adapter (USB indicator should be green)
+    1. Click "Can Adapters"
+    2. Add the adapter (USB indicator should be green)
 3. Add WaveSculptor22 to profiles
 4. Add Virtual Can To Ethernet bridge (**you have to**)
 
